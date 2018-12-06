@@ -1,0 +1,76 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="info-full.ru" resolutions="1x,2x" timestamp="1500062421406">
+  <folder name="css">
+    <file name="site_global.css" crc="407081842"/>
+    <file name="master_______-a.css" crc="111089520" ref="politic:index"/>
+    <file name="politic.css" crc="357497889" ref="politic"/>
+    <file name="index.css" crc="498718766" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="videophone_.mp4" crc="411440474" seo="true" mt="1481624712000"/>
+    <file name="videophone_.ogv" crc="246996416" seo="true" mt="1481624867000"/>
+    <file name="videophone_.webm" crc="296968329" seo="true" mt="1481624779000"/>
+    <file name="videophone_.png" crc="13202778" seo="true" mt="1478428113000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="tablet>index:tablet>politic:index:politic"/>
+    <file name="museutils.js" crc="3851988764" ref="tablet>index:tablet>politic:index:politic"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>politic:index:politic"/>
+    <file name="museconfig.js" crc="4242129463" ref="tablet>index:tablet>politic:index:politic"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="tablet>index:tablet>politic:index:politic"/>
+    <file name="webpro.js" crc="4067903014" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="tablet>index"/>
+    <file name="touchswipe.js" crc="474750357" ref="tablet>index"/>
+    <file name="pie.js" crc="3831537696" ref="tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="tablet>index"/>
+    <file name="require.js" crc="4108833657" ref="tablet>index:tablet>politic:index:politic"/>
+  </folder>
+  <folder name="images">
+    <file name="пояс-тренажер-ab-gymnic-favicon.ico" crc="4077050466" ref="tablet>index"/>
+    <file name="фон3.jpg" crc="407336984" seo="true" ref="tablet>index"/>
+    <file name="logo3.png" crc="4113120451" seo="true" ref="tablet>index"/>
+    <file name="logo3_2x.png" crc="3786029116" seo="true" ref="tablet>index"/>
+    <file name="sh1.png" crc="4292460105" seo="true" ref="tablet>index"/>
+    <file name="sh4.png" crc="3878014255" seo="true" ref="tablet>index"/>
+    <file name="sh3.png" crc="482665178" seo="true" ref="tablet>index"/>
+    <file name="sh2.png" crc="4257835628" seo="true" ref="tablet>index"/>
+    <file name="fon.png" crc="453921599" ref="tablet>index"/>
+    <file name="circle.png" crc="4058638593" seo="true" ref="tablet>index"/>
+    <file name="circle_2x.png" crc="4255974904" seo="true" ref="tablet>index"/>
+    <file name="13.png" crc="4236651994" seo="true" ref="tablet>index"/>
+    <file name="13_2x.png" crc="188029043" seo="true" ref="tablet>index"/>
+    <file name="fon2.jpg" crc="4020714611" ref="tablet>index"/>
+    <file name="tovar 2.jpg" crc="4143783822" seo="true" ref="tablet>index"/>
+    <file name="tovar 2_2x.jpg" crc="4121562732" seo="true" ref="tablet>index"/>
+    <file name="buton_green.png" crc="4221944313" seo="true" ref="tablet>index"/>
+    <file name="gal.png" crc="3828287766" seo="true" ref="tablet>index"/>
+    <file name="gal_2x.png" crc="454873574" seo="true" ref="tablet>index"/>
+    <file name="pfoto_right.png" crc="431892664" seo="true" ref="tablet>index"/>
+    <file name="pfoto_right_2x.png" crc="3883625018" seo="true" ref="tablet>index"/>
+    <file name="2_.jpg" crc="4157026624" seo="true" ref="tablet>index"/>
+    <file name="2__2x.jpg" crc="4020404532" seo="true" ref="tablet>index"/>
+    <file name="1 (1)-crop-u4152.jpg" crc="212053663" ref="tablet>index"/>
+    <file name="4.jpg" crc="4058560661" seo="true" ref="tablet>index"/>
+    <file name="3(3)-crop-u4189.jpg" crc="76044309" ref="tablet>index"/>
+    <file name="3(3)-crop-u4189_2x.jpg" crc="57078843" ref="tablet>index"/>
+    <file name="ajy2.jpg" crc="163781424" ref="tablet>index"/>
+    <file name="u4341-grad.png" crc="448338491" ref="tablet>index"/>
+    <file name="u4348-grad.png" crc="4161393311" ref="tablet>index"/>
+    <file name="beydg.png" crc="314557214" seo="true" ref="tablet>index"/>
+    <file name="3.jpg" crc="3788844926" seo="true" ref="tablet>index"/>
+    <file name="1.jpg" crc="4244153246" seo="true" ref="index"/>
+    <file name="2.jpg" crc="227168197" seo="true" ref="index"/>
+    <file name="32.jpg" crc="4192730061" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_______-a.css" crc="4222637662" ref="tablet>politic:tablet>index"/>
+      <file name="politic.css" crc="249324824" ref="tablet>politic"/>
+      <file name="index.css" crc="4292179936" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="44364664" seo="true" mt="1482351962758" redirect="true"/>
+    <file name="politic.html" crc="4034248116" seo="true" mt="1482352042976" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4198333940" seo="true" mt="1499066702190" redirect="true"/>
+  <file name="politic.html" crc="77668167" seo="true" mt="1482086780436" redirect="true"/>
+</manifest>
